@@ -1,0 +1,60 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA Quadro FX 770M (ID=0x65c)
+    Vendor:   NVIDIA
+    VRAM:     487 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programming\Unity\3D Truck Parking 1\Vehicle\EXE\3D-TP_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programming\Unity\3D Truck Parking 1\Vehicle\EXE\3D-TP_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\3D Truck Parking 1\Vehicle\EXE\3D-TP_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Programming\Unity\3D Truck Parking 1\Vehicle\EXE\3D-TP_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.411 seconds
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Programming\Unity\3D Truck Parking 1\Vehicle\EXE\3D-TP_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\Programming\Unity\3D Truck Parking 1\Vehicle\EXE\3D-TP_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 25.874876 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.959326 ms (FindLiveObjects: 0.036571 ms CreateObjectMapping: 0.016168 ms MarkObjects: 0.094700 ms  DeleteObjects: 0.055819 ms)
+
+UnloadTime: 3.513168 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 1.488265 ms (FindLiveObjects: 0.022712 ms CreateObjectMapping: 0.015398 ms MarkObjects: 0.118183 ms  DeleteObjects: 0.520854 ms)
+
+UnloadTime: 0.406905 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 572.
+Total: 1.187994 ms (FindLiveObjects: 0.051200 ms CreateObjectMapping: 0.020403 ms MarkObjects: 0.115103 ms  DeleteObjects: 0.068523 ms)
+
+UnloadTime: 11.721340 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 14.750996 ms (FindLiveObjects: 0.058514 ms CreateObjectMapping: 0.052739 ms MarkObjects: 0.280252 ms  DeleteObjects: 9.443132 ms)
+
+UnloadTime: 1.139104 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 910.
+Total: 1.204162 ms (FindLiveObjects: 0.068908 ms CreateObjectMapping: 0.020787 ms MarkObjects: 0.121263 ms  DeleteObjects: 0.046195 ms)
+
+UnloadTime: 26.719099 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 12.467783 ms (FindLiveObjects: 0.162454 ms CreateObjectMapping: 0.061978 ms MarkObjects: 0.301810 ms  DeleteObjects: 8.429140 ms)
+
+UnloadTime: 1.084824 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Total: 2.562695 ms (FindLiveObjects: 0.025022 ms CreateObjectMapping: 0.034261 ms MarkObjects: 0.180547 ms  DeleteObjects: 0.041190 ms)
+
